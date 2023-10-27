@@ -1,4 +1,4 @@
-# BigMart Sales Predicttive Analytics
+# BigMart Sales - Predictive Analytics
 
 ## Overview
 Sales forecasting is critical for businesses to allocate resources, manage cash flow, and meet customer expectations. The BigMart Sales Prediction project explores data processing, exploratory data analysis, and the development of various machine-learning models to predict product sales in different stores.
