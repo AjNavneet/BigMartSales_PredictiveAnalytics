@@ -64,7 +64,7 @@ The dataset contains annual sales records for 1559 products across ten stores in
 
 ---
 
-## Project Structure
+## Code Structure
 - `data`: Contains project data.
 - `lib`: Reference notebooks.
 - `ml_pipeline`: Python files for functions.
