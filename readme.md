@@ -1,4 +1,4 @@
-# BigMart Sales - Predictive Analytics
+# BigMart Sales Predictive Analytics
 
 ## Overview
 Sales forecasting is critical for businesses to allocate resources, manage cash flow, and meet customer expectations. The BigMart Sales Prediction project explores data processing, exploratory data analysis, and the development of various machine-learning models to predict product sales in different stores.
@@ -71,21 +71,6 @@ The dataset contains annual sales records for 1559 products across ten stores in
 - `engine.py`: Main execution script.
 - `requirements.txt`: List of required packages.
 - `readme.md`: Instructions for running the code.
-
----
-
-## Concepts Explored
-1. Understanding the sales prediction problem statement
-2. Data exploration with Amazon Redshift
-3. Data preprocessing with SQL
-4. Data Cleaning and Imputation
-5. Exploratory Data Analysis
-6. Correlation Analysis
-7. Categorical Correlation with Chi-squared and Cramer’s V Tests
-8. Correlation between Categorical and Target Variables with ANOVA
-9. Model Building and Evaluation with various regression models
-10. Model evaluation using regression metrics like R-squared.
-
 
 ---
 
